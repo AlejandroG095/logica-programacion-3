@@ -1,4 +1,4 @@
-# Ejercicio: Conversión de Temperatura en Javascript
+# Ejercicio: Práctica de Factorial
 
 ## Instrucciones
 
